@@ -1,0 +1,23 @@
+.logo img{
+  height: 60px;
+}
+.home{
+  background-image: url("https://www.eminem.com/sites/g/files/aaj4806/f/styles/suzuki_opengraph/public/news/201902/sslp%20expanded%20news%20banner%20thumb.jpg?itok=DZOMhYOR");
+  background-size: cover;
+}
+.home .col{
+  height:500px;
+}
+.live{
+  background-image: url("https://www.lastampa.it/rf/image_lowres/Pub/p4/2018/07/08/Spettacoli/Foto/RitagliWeb/bf548790-8280-11e8-b2f5-bc35ca3a3794_070718-MILAN-SELECTS-5DM40363-2-kLnC-U11101703762802Oc-1024x576%40LaStampa.it.jpg");
+  background-size: cover;
+  filter: grayscale(100%);
+}
+.live .col{
+  height: 400px;
+}
+footer{
+  background-image: url("http://mtv.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/mtvema/2018/nominees/eminem-1940x720.jpg?quality=0.85&width=1024&height=450&crop=true");
+  background-size: cover;
+  filter: opacity(100%);
+}
